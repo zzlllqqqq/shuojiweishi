@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.atguigu.shoujiweishi">
+
+    <!-- 读取手机联网状态的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 读取wifi状态的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 请求网络的权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- sd卡操作的权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 读取联系的权限 -->
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <!-- 请求电话状态信息 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 接收开机完成的广播 -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <!-- 发送短信 -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <!-- 接收短信的权限 -->
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <!-- 进行精确定位的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 在window添加一个视图(不是toast) -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <!-- 接打/挂断电话 -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- 读写通话记录 -->
+    <uses-permission android:name="android.permission.WRITE_CALL_LOG" />
+    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+    <!-- 得到栈信息 -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <!-- 杀死后台进程 -->
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <!-- 生成快捷方式 -->
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <!-- 读取包大小 -->
+    <uses-permission android:name="android.permission.GET_PACKAGE_SIZE" />
+    <!-- 读写短信 -->
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".WelcomActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="com.atguigu.shoujiweishi.MainActivity.action" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Setup1Activity" />
+        <activity android:name=".Setup2Activity" />
+        <activity android:name=".Setup3Activity" />
+        <activity android:name=".Setup4Activity" />
+        <activity android:name=".ProtectinfoActivity" />
+        <activity android:name=".ContactListActivity" />
+
+        <!-- 在Manifest文件中定义配置 -->
+        <receiver
+            android:name=".receiver.MyAdminReceive"
+            android:permission="android.permission.BIND_DEVICE_ADMIN">
+            <meta-data
+                android:name="android.app.device_admin"
+                android:resource="@xml/my_admin" />
+
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".receiver.BootReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".receiver.SmsReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter android:priority="1000">
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".AToolActivity" />
+        <activity android:name=".AddressQueryActivity" />
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".SetAddressLocationActivity" />
+
+        <service
+            android:name=".service.AddressService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name=".BlackNumberActiity" />
+        <activity android:name=".AppManagerActivity" />
+        <activity android:name=".AppLockActivity" />
+
+        <service
+            android:name=".service.AppLockService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name=".LockScreenActivity"
+            android:excludeFromRecents="true"
+            android:launchMode="singleInstance" />
+        <!-- 单例, 在一个单独的新栈中产生 -->
+        <activity android:name=".ProcessManagerActivity" />
+
+        <service
+            android:name=".service.UpdateWidgetService"
+            android:enabled="true"
+            android:exported="true" />
+        <!-- 这里就是声明service，可以产生一个桌面快捷方式 -->
+        <receiver android:name=".receiver.ProcessWidget">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/process_widget" />
+        </receiver>
+
+        <activity android:name=".TrafficManagerActivity" />
+        <activity android:name=".CacheClearActivity" />
+        <activity android:name=".NumberQueryActivity" />
+        <activity android:name=".AntivirusActivity_"></activity>
+    </application>
+
+</manifest>

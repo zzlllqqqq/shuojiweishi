@@ -1,0 +1,85 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#bd04e7"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="4. 完成设置"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tv_guide4_message"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="应用还没有激活, 手机防盗功能不能使用" 
+        android:textColor="#ff0000"
+        android:textSize="18sp"
+        android:layout_marginTop="5dp"/>
+
+     <CheckBox
+        android:id="@+id/cb_guide4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="手机没有开启保护" 
+        android:textColor="#ff0000"
+        android:textSize="20sp"
+        android:layout_marginTop="5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:gravity="center_horizontal"
+        android:layout_marginTop="10dp">
+
+        
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/presence_invisible" />
+        
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/presence_invisible" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/presence_invisible" />
+		<ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/presence_online" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:text="上一步" 
+            android:drawableLeft="@drawable/previous"
+            android:onClick="pre"/>
+        
+        
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:text="完成" 
+            android:drawableRight="@drawable/next"
+            android:onClick="confirm"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

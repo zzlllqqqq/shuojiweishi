@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#bdefff"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="流量管理"
+        android:textSize="25sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp">
+
+        <TextView
+            android:id="@+id/tv_traffic_2g_3g"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="2G/3G流量: 未知" 
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/tv_traffic_wifi"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="WIFI流量: 未知" 
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <SlidingDrawer
+        android:id="@+id/sd_traffic"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:content="@+id/lv_traffic"
+        android:handle="@+id/handle" >
+
+        <Button
+            android:id="@+id/handle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/handle"/>
+
+        <ListView
+            android:id="@+id/lv_traffic"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </ListView>
+    </SlidingDrawer>
+
+</LinearLayout>

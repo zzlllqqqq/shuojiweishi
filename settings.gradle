@@ -1,0 +1,2 @@
+include ':shoujiweishi', ':weishi', ':circlebar', ':scrolltest', ':slidemenu', ':quickindex', ':llistView_CommonAdapter', ':ce_hua_caidan', ':ping_yi', ':kuai_su_suo_yin', ':ce_hua_shan_chu', ':shang_la_shua_xin'
+include ':mS_Final'

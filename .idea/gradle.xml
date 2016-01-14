@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ce_hua_caidan" />
+            <option value="$PROJECT_DIR$/ce_hua_shan_chu" />
+            <option value="$PROJECT_DIR$/circlebar" />
+            <option value="$PROJECT_DIR$/kuai_su_suo_yin" />
+            <option value="$PROJECT_DIR$/llistView_CommonAdapter" />
+            <option value="$PROJECT_DIR$/mS_Final" />
+            <option value="$PROJECT_DIR$/ping_yi" />
+            <option value="$PROJECT_DIR$/quickindex" />
+            <option value="$PROJECT_DIR$/scrolltest" />
+            <option value="$PROJECT_DIR$/shang_la_shua_xin" />
+            <option value="$PROJECT_DIR$/shoujiweishi" />
+            <option value="$PROJECT_DIR$/slidemenu" />
+            <option value="$PROJECT_DIR$/weishi" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

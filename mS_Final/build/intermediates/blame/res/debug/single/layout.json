@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\item_expandable_group.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\item_expandable_group.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_set_dialog_view.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\pwd_set_dialog_view.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anti_virus.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_anti_virus.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_adress_location_set.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_adress_location_set.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_address.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_query_address.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\item_app.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\item_app.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_protected_info.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_protected_info.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\item_app_lock.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\item_app_lock.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_lock.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_app_lock.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_manager.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_black_manager.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_manager.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_app_manager.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide1.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_guide1.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lock_screen.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_lock_screen.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_task_manager.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_login_dialog_view.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\pwd_login_dialog_view.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\app_count_view.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\app_count_view.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\item_expandable_children.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\item_expandable_children.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide4.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_guide4.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\pw_view.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\pw_view.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide2.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_guide2.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean_cache.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_clean_cache.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\item_traffic_manager.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\item_traffic_manager.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\address_view.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\address_view.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atool.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_atool.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffic_manager.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_traffic_manager.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\item_process_manger.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\item_process_manger.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide3.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_guide3.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\item_main.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\item_main.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\item_cache_clean.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\item_cache_clean.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\process_widget_view.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\process_widget_view.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_list.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_contact_list.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\layout\\activity_common_number.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\layout\\activity_common_number.xml"
+    }
+]

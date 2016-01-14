@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">硅谷卫士</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_guide1">Guide1Activity</string>
+    <string name="title_activity_protected_info">ProtectedInfoActivity</string>
+    <string name="title_activity_guide2">Guide2Activity</string>
+    <string name="title_activity_guide3">Guide3Activity</string>
+    <string name="title_activity_guide4">Guide4Activity</string>
+    <string name="title_activity_atool">AToolActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_query_address">QueryAddressActivity</string>
+
+    <string-array name="styleNames">
+        <item>半透明</item>
+        <item>活力橙</item>
+        <item>苹果绿</item>
+        <item>孔雀蓝</item>
+        <item>金属灰</item>
+    </string-array>
+
+    <string name="title_activity_adress_location_set">AdressLocationSetActivity</string>
+    <string name="title_activity_black_manager">BlackManagerActivity</string>
+    <string name="title_activity_app_manager">AppManagerActivity</string>
+    <string name="title_activity_app_lock">AppLockActivity</string>
+    <string name="title_activity_lock_screen">LockScreenActivity</string>
+    <string name="title_activity_task_manager">TaskManagerActivity</string>
+    <string name="title_activity_traffic_manager">TrafficManagerActivity</string>
+    <string name="title_activity_clean_cache">CleanCacheActivity</string>
+    <string name="title_activity_common_number">CommonNumberActivity</string>
+    <string name="title_activity_anti_virus">AntiVirusActivity</string>
+
+</resources>

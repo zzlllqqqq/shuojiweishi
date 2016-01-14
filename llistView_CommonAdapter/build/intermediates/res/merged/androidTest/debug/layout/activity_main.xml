@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="所有应用" 
+        android:gravity="center"
+        android:textSize="25sp"
+        android:background="#EE00EE"
+        android:textColor="@android:color/white"/>
+
+    <ListView
+        android:id="@+id/lv_main_apps"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </ListView>
+</LinearLayout>

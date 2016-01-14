@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/iv_item_process_logo"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:src="@mipmap/logo" />
+
+    <TextView
+        android:id="@+id/tv_item_process_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginTop="5dip"
+        android:layout_toRightOf="@id/iv_item_process_logo"
+        android:text="进程名称"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tv_item_process_mem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_item_process_name"
+        android:layout_marginLeft="10dip"
+        android:layout_toRightOf="@id/iv_item_process_logo"
+        android:text="内存大小: 10K"
+        android:textSize="16sp" />
+
+    <CheckBox
+        android:id="@+id/cb_item_process_status"
+        android:focusableInTouchMode="false"
+        android:clickable="false"
+        android:focusable="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"/>
+
+</RelativeLayout>

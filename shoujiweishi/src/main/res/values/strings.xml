@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShouJiWeiShi</string>
+
+    <string-array name="style_names">
+        <item>半透明</item>
+        <item>活力橙</item>
+        <item>苹果绿</item>
+        <item>孔雀蓝</item>
+        <item>金属灰</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_ms.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\xml\\device_admin_ms.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\xml\\process_widget.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\xml\\process_widget.xml"
+    }
+]

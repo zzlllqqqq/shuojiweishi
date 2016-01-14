@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_bg_portrait.9.png",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\widget_bg_portrait.9.png"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\expendable_group_selector.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\expendable_group_selector.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_bg_portrait_child.9.png",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\widget_bg_portrait_child.9.png"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_white.9.png",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\call_locate_white.9.png"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_selector.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\item_background_selector.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_normal.9.png",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\function_greenbutton_normal.9.png"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_orange.9.png",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\call_locate_orange.9.png"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_gray.9.png",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\call_locate_gray.9.png"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_pressed.9.png",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\function_greenbutton_pressed.9.png"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_green.9.png",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\call_locate_green.9.png"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\local_popup_bg.9.png",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\local_popup_bg.9.png"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\ms_progress.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\ms_progress.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_blue.9.png",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\call_locate_blue.9.png"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\drawable\\clean_button_selector.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\drawable\\clean_button_selector.xml"
+    }
+]

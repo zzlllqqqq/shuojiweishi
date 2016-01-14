@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.app3_listview"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <application></application>
+    <!-- 库本身不能运行-->
+
+</manifest>

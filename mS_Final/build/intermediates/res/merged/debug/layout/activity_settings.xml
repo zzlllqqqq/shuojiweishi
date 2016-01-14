@@ -1,0 +1,132 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title" />
+
+    <LinearLayout
+        android:id="@+id/ll_settings_lock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="5dp" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="设置程序锁服务"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_settings_lock"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="程序锁服务服务未开启"
+                android:textColor="#ff0000"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <CheckBox
+            android:id="@+id/cb_settings_lock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#FF82AB" />
+
+    <LinearLayout
+        android:id="@+id/ll_settings_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="5dp" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="设置手机归属地服务"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_settings_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="归属地服务未开启"
+                android:textColor="#ff0000"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <CheckBox
+            android:id="@+id/cb_settings_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:clickable="false"
+            android:focusable="false"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#FF82AB" />
+
+    <LinearLayout
+        android:id="@+id/ll_settings_style"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp" 
+        android:background="@drawable/item_background_selector">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="归属地显示风格"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_settings_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="透明的"
+            android:textColor="#ff0000"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#FF82AB" />
+
+    <TextView
+        android:id="@+id/tv_settings_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        android:paddingTop="10dp"
+        android:textSize="20sp" 
+        android:text="归属地显示位置"
+        android:background="@drawable/item_background_selector"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#FF82AB" />
+
+</LinearLayout>

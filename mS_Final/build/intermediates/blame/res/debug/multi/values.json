@@ -1,0 +1,490 @@
+[
+    {
+        "outputFile": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 19,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 784,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 41,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 52,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 52,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 88,
+                    "endOffset": 416
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 975,
+                        "endColumn": 88,
+                        "endOffset": 1059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 421,
+                    "endColumn": 71,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1677,
+                        "endColumn": 71,
+                        "endOffset": 1744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 67,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1219,
+                        "endColumn": 67,
+                        "endOffset": 1282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 73,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1144,
+                        "endColumn": 73,
+                        "endOffset": 1213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 62,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endColumn": 62,
+                        "endOffset": 627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endColumn": 77,
+                    "endOffset": 771
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1065,
+                        "endColumn": 77,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 776,
+                    "endColumn": 73,
+                    "endOffset": 845
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1523,
+                        "endColumn": 73,
+                        "endOffset": 1592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 850,
+                    "endColumn": 77,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1598,
+                        "endColumn": 77,
+                        "endOffset": 1671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 64,
+                    "endOffset": 988
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 64,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 993,
+                    "endColumn": 64,
+                    "endOffset": 1053
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 64,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1058,
+                    "endColumn": 64,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 437,
+                        "endColumn": 64,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endColumn": 64,
+                    "endOffset": 1183
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 64,
+                        "endOffset": 563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1188,
+                    "endColumn": 73,
+                    "endOffset": 1257
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1288,
+                        "endColumn": 73,
+                        "endOffset": 1357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1262,
+                    "endColumn": 79,
+                    "endOffset": 1337
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 79,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1342,
+                    "endColumn": 77,
+                    "endOffset": 1415
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 77,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1420,
+                    "endColumn": 68,
+                    "endOffset": 1484
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 68,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1489,
+                    "endColumn": 75,
+                    "endOffset": 1560
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 75,
+                        "endOffset": 1434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1565,
+                    "endColumn": 81,
+                    "endOffset": 1642
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1440,
+                        "endColumn": 81,
+                        "endOffset": 1517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1647,
+                    "endColumn": 66,
+                    "endOffset": 1709
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 66,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1714,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2000
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2005,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2239
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2244,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 2659
+                },
+                "from": {
+                    "file": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1479
+                    }
+                }
+            }
+        ]
+    }
+]

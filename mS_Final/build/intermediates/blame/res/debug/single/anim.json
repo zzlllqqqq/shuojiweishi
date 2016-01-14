@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\anim\\left_in.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\anim\\anim_loading.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\anim\\anim_loading.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\anim\\left_out.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\anim\\right_in.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "E:\\studiospace\\MobileSafe\\mS_Final\\build\\intermediates\\res\\merged\\debug\\anim\\right_out.xml",
+        "source": "E:\\studiospace\\MobileSafe\\mS_Final\\src\\main\\res\\anim\\right_out.xml"
+    }
+]

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#bdefff"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="设置中心"
+        android:textSize="25sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="@drawable/item_bg_selector"
+        android:onClick="setLockService"
+        android:clickable="true">
+
+        <TextView
+            android:id="@+id/tv_settings_lock_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="设置程序锁服务"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_settings_lock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_settings_lock_text"
+            android:text="程序锁服务未开启"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="20sp" />
+
+        <CheckBox
+            android:id="@+id/cb_settings_lock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:clickable="false" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ff82ab"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="@drawable/item_bg_selector"
+        android:onClick="setAddressService"
+        android:clickable="true">
+
+        <TextView
+            android:id="@+id/tv_settings_address_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="设置归属地服务"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_settings_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_settings_address_text"
+            android:text="归属地服务未开启"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="20sp" />
+
+        <CheckBox
+            android:id="@+id/cb_settings_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:clickable="false" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ff82ab"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="@drawable/item_bg_selector"
+        android:onClick="setAddressStyle"
+        android:clickable="true">
+
+        <TextView
+            android:id="@+id/tv_settings_style_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="归属地显示风格"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_settings_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_settings_style_text"
+            android:text="半透明"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ff82ab"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="设置归属地显示位置"
+        android:textSize="20sp"
+        android:paddingLeft="5dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:background="@drawable/item_bg_selector"
+        android:onClick="setAddressLocation"
+        android:clickable="true"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ff82ab"/>
+</LinearLayout>

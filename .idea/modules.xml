@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MobileSafe.iml" filepath="$PROJECT_DIR$/MobileSafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ce_hua_caidan/ce_hua_caidan.iml" filepath="$PROJECT_DIR$/ce_hua_caidan/ce_hua_caidan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ce_hua_shan_chu/ce_hua_shan_chu.iml" filepath="$PROJECT_DIR$/ce_hua_shan_chu/ce_hua_shan_chu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circlebar/circlebar.iml" filepath="$PROJECT_DIR$/circlebar/circlebar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kuai_su_suo_yin/kuai_su_suo_yin.iml" filepath="$PROJECT_DIR$/kuai_su_suo_yin/kuai_su_suo_yin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/llistView_CommonAdapter/llistView_CommonAdapter.iml" filepath="$PROJECT_DIR$/llistView_CommonAdapter/llistView_CommonAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mS_Final/mS_Final.iml" filepath="$PROJECT_DIR$/mS_Final/mS_Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ping_yi/ping_yi.iml" filepath="$PROJECT_DIR$/ping_yi/ping_yi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickindex/quickindex.iml" filepath="$PROJECT_DIR$/quickindex/quickindex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scrolltest/scrolltest.iml" filepath="$PROJECT_DIR$/scrolltest/scrolltest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shang_la_shua_xin/shang_la_shua_xin.iml" filepath="$PROJECT_DIR$/shang_la_shua_xin/shang_la_shua_xin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shoujiweishi/shoujiweishi.iml" filepath="$PROJECT_DIR$/shoujiweishi/shoujiweishi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidemenu/slidemenu.iml" filepath="$PROJECT_DIR$/slidemenu/slidemenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weishi/weishi.iml" filepath="$PROJECT_DIR$/weishi/weishi.iml" />
+    </modules>
+  </component>
+</project>

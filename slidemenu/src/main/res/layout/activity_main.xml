@@ -1,0 +1,13 @@
+<com.atguigu.slidemenu.SlideLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ml_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include layout="@layout/main_content" />
+
+    <include layout="@layout/main_menu" />
+
+  </com.atguigu.slidemenu.SlideLayout>
+

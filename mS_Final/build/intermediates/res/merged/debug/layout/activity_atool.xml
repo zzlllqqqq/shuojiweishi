@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title" />
+
+    <TextView
+        android:id="@+id/tv_atool_lock"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="程序锁"
+        android:textSize="18sp" 
+        android:background="@drawable/item_background_selector"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#FF82AB" />
+    
+    <TextView
+        android:id="@+id/tv_atool_address"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="号码归属地查询"
+        android:textSize="18sp" 
+        android:background="@drawable/item_background_selector"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#FF82AB" />
+    
+    <TextView
+        android:id="@+id/tv_atool_common_number"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="常用号码查询"
+        android:textSize="18sp" 
+        android:background="@drawable/item_background_selector"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#FF82AB" />
+    
+    <TextView
+        android:id="@+id/tv_atool_restore"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="还原短信"
+        android:textSize="18sp" 
+        android:background="@drawable/item_background_selector"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#FF82AB" />
+    
+    <TextView
+        android:id="@+id/tv_atool_backup"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="备份短信"
+        android:textSize="18sp" 
+        android:background="@drawable/item_background_selector"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#FF82AB" />
+    
+
+</LinearLayout>
